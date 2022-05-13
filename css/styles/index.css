@@ -1,0 +1,16 @@
+.title-page{
+    color:white !important;
+    text-align: center;
+    justify-content: center;
+}
+
+.subtitle{
+    text-transform: lowercase;
+    color:white !important;
+    text-align: center;
+    justify-content: center;
+}
+
+.background-contact{ padding: 5rem; }
+
+.bloc{ width: inherit !important; }

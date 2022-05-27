@@ -88,3 +88,83 @@
     padding-top: 1rem;
     margin: auto;
 }
+
+.bloc-2-services h2{
+    padding-right: 25rem;
+    padding-left: 25rem;
+}
+
+.img-citation{
+}
+
+@media (max-width: 767px) {
+    .container.bloc-md{
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+    .text-center{
+        padding-left: 3rem !important;
+        padding-right: 3rem !important;
+    }
+
+    .img-citation{
+        width: 100% ;
+    }
+
+    .white-background{
+        margin-left: 2rem; 
+        margin-right: 2rem;
+        padding: 10px;
+    }
+
+    #bloc-4-portfolio img{ 
+        width: 80%;
+        margin: auto;
+    }
+    #bloc-4-portfolio h2{ 
+        margin-bottom: 2rem;
+    }
+    #bloc-4-portfolio .col-sm-6{
+        display :flex;
+        flex-direction: column;
+    }
+
+    #bloc-4-portfolio .col-sm-6 h3{
+        order:1;
+        font-size: 1.75rem;
+        margin-inline:20px ;
+    }
+    #bloc-4-portfolio .col-sm-6 a{
+        order:2;
+        padding-bottom: 1rem;
+    }
+    #bloc-4-portfolio .col-sm-6 p{
+        order:3;
+        font-size: 1.5rem;
+
+    }
+    #bloc-4-portfolio .col-sm-6{
+        margin-top: 2rem !important;
+    }
+ 
+
+    .portfolio-row{margin-bottom: 0px !important; margin-top: 0px !important;}
+
+
+    #bloc-5-cta .row{
+        margin: 2rem;
+    }
+
+    .row-no-gutters{
+        display: flex;
+        justify-content: center;
+        padding-bottom: 2rem;
+    }
+
+    #bloc-8 .row{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        padding: 2rem;
+    }
+}

@@ -59,6 +59,8 @@
 }
 #bloc-5-cta h2{
     font-weight: 600;
+    padding-right: 5rem !important;
+    padding-left: 5rem !important;
 }
 
 .text-contact{ 
@@ -166,5 +168,22 @@
         flex-wrap: wrap;
         justify-content: flex-start;
         padding: 2rem;
+    }
+
+    #bloc-7 .col-sm-6{ 
+        width: 100%;
+    }
+    #bloc-7 .col-sm-6{
+        margin-right: 0 !important;
+        margin-left: 0 !important;
+    }
+
+    .background-contact{
+        padding: 4rem;
+
+    }
+
+    #bloc-6 .title-page{
+        padding:0 !important;
     }
 }

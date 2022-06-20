@@ -26,7 +26,7 @@
     margin: auto;
 }
 .white-background{
-    background-color: rgba(255,255,255,0.8);
+    background-color: rgba(255,255,255,1);
     position: relative;
     padding: 40px;
     border-radius: 0.75rem !important;

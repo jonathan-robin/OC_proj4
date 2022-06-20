@@ -11,8 +11,21 @@
     text-align: center;
     justify-content: center;
 }
+
+.footer-link{
+    color: black !important;
+}
 address{
     color: black;;
+}
+.row-footer-link{
+    padding-top: 2rem;
+}
+.row-no-gutters{
+    padding-top:1rem ;
+}
+.row-footer-link ul{
+    padding-top: 0.75rem;
 }
 .background-contact{ padding: 8rem; }
 

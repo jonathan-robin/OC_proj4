@@ -14,10 +14,10 @@
 .background-contact{ padding: 8rem; }
 
 .bloc{ width: inherit !important; }
-
-/* .navbar{ display: flex; width: 90vw;} */
-/* .navbar-nav .nav{ float: inherit !important; } */
-/* .site-nav{ display: flex; float: right;} */
+.bloc-contact{
+    display: flex;
+    flex-direction: column;
+}
 #bloc-0-contact .navbar.row{
         display: flex;
         justify-content: space-between;

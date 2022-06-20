@@ -27,6 +27,11 @@ address{
 .row-footer-link ul{
     padding-top: 0.75rem;
 }
+.row-footer-link p{
+    font-weight: bold;
+    color: white !important;
+    font-size: 11pt;
+}
 .background-contact{ padding: 8rem; }
 
 .bloc{ width: inherit !important; }
@@ -66,7 +71,7 @@ address{
     padding-left: 8rem;
 }
 #bloc-5-cta .row{
-    background-color: rgba(255,255,255,0.8);
+    background-color: rgba(255,255,255,1);
     position: relative;
     margin-right: 20rem;
     margin-left: 20rem;

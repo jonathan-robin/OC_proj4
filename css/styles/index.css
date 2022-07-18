@@ -125,15 +125,14 @@ address{
     .container.bloc-md{
         padding-left: 2rem;
         padding-right: 2rem;
+        max-width: 100%;
     }
     .text-center{
         padding-left: 3rem !important;
         padding-right: 3rem !important;
     }
 
-    .img-citation{
-        width: 100% ;
-    }
+    .img-citation{ width: 100% ; }
 
     .white-background{
         margin-left: 2rem; 
@@ -167,45 +166,26 @@ address{
         font-size: 1.5rem;
 
     }
-    #bloc-4-portfolio .col-sm-6{
-        margin-top: 2rem !important;
-    }
- 
-
+    #bloc-4-portfolio .col-sm-6{  margin-top: 2rem !important; }
     .portfolio-row{margin-bottom: 0px !important; margin-top: 0px !important;}
-
-
-    #bloc-5-cta .row{
-        margin: 2rem;
-    }
+    #bloc-5-cta .row{ margin: 2rem; }
 
     .row-no-gutters{
         display: flex;
         justify-content: center;
         padding-bottom: 2rem;
     }
-
     #bloc-8 .row{
         display: flex;
         flex-wrap: wrap;
         justify-content: flex-start;
         padding: 2rem;
     }
-
-    #bloc-7 .col-sm-6{ 
-        width: 100%;
-    }
+    #bloc-7 .col-sm-6{ width: 100%; }
     #bloc-7 .col-sm-6{
         margin-right: 0 !important;
         margin-left: 0 !important;
     }
-
-    .background-contact{
-        padding: 4rem;
-
-    }
-
-    #bloc-6 .title-page{
-        padding:0 !important;
-    }
+    .background-contact{ padding: 4rem; }
+    #bloc-6 .title-page{ padding:0 !important; }
 }

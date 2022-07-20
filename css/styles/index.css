@@ -179,7 +179,9 @@ address{
         display: flex;
         flex-wrap: wrap;
         justify-content: flex-start;
-        padding: 2rem;
+    }
+    #cta-hero-2{ 
+        white-space: break-spaces;
     }
     #bloc-7 .col-sm-6{ width: 100%; }
     #bloc-7 .col-sm-6{
